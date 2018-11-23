@@ -9,7 +9,6 @@ import java.util.Set;
  */
 public class Compras  implements java.io.Serializable {
 
-
      private long idCompra;
      private Integer idAssociado;
      private Integer idMaterial;
@@ -21,7 +20,6 @@ public class Compras  implements java.io.Serializable {
     public Compras() {
     }
 
-	
     public Compras(long idCompra) {
         this.idCompra = idCompra;
     }

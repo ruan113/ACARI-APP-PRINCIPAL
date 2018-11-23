@@ -34,10 +34,10 @@ public class DatabaseConnection {
 
         try {
             DriverManager.getConnection(url, user, password);
-            JOptionPane.showMessageDialog(null, "Connected");//Teste
+            System.out.println("Connected");//Teste
         } catch (SQLException ex) {
             Logger.getLogger(DatabaseConnection.class.getName()).log(Logger.Level.FATAL, null, ex);
-            JOptionPane.showMessageDialog(null, "Falha ao connectar no banco de dados!");//Teste
+            System.out.println("Falha ao connectar no banco de dados!");//Teste
         }
 
         return connection;

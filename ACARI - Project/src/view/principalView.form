@@ -608,137 +608,171 @@
           <Layout>
             <DimensionLayout dim="0">
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="0" attributes="0">
+                  <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jLabel3" alignment="0" min="-2" pref="790" max="-2" attributes="0"/>
                           <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                              <Component id="jLabel6" min="-2" pref="340" max="-2" attributes="0"/>
+                              <EmptySpace min="791" pref="791" max="-2" attributes="0"/>
+                              <Component id="jLabel4" min="-2" pref="350" max="-2" attributes="0"/>
                           </Group>
-                          <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                              <Component id="associadosComprasComboBox" min="-2" pref="340" max="-2" attributes="0"/>
-                              <EmptySpace min="80" pref="80" max="-2" attributes="0"/>
-                              <Component id="materialComprasComboBox" min="-2" pref="230" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                              <Component id="cadastrarAssociadoComprasButton" min="-2" pref="340" max="-2" attributes="0"/>
-                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                              <Component id="cadastrarNovoMaterialComprasButton" min="-2" pref="250" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                              <Component id="jLabel9" min="-2" pref="270" max="-2" attributes="0"/>
-                              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
-                              <Component id="quantidadeItemComprasTextField" min="-2" pref="80" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                              <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
-                              <Component id="precoItemComprasTextField" min="-2" pref="80" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="350" pref="350" max="-2" attributes="0"/>
-                              <Component id="precoTotalItemComprasTextField" min="-2" pref="110" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                              <Component id="adicionarItemComprasButton" min="-2" pref="320" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jSeparator2" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
-                          <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                          <Component id="jSeparator1" alignment="0" min="-2" pref="1140" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="totalAPagarLabel" alignment="0" min="-2" pref="320" max="-2" attributes="0"/>
-                                  <Component id="confirmarComprasButton" alignment="0" min="-2" pref="320" max="-2" attributes="0"/>
-                                  <Component id="cancelarComprasButton" alignment="0" min="-2" pref="320" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jLabel3" alignment="0" min="-2" pref="790" max="-2" attributes="0"/>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                                              <Component id="jLabel6" min="-2" pref="340" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                                              <Component id="associadosComprasComboBox" min="-2" pref="340" max="-2" attributes="0"/>
+                                              <EmptySpace min="80" pref="80" max="-2" attributes="0"/>
+                                              <Component id="materialComprasComboBox" min="-2" pref="230" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                                              <Component id="cadastrarAssociadoComprasButton" min="-2" pref="340" max="-2" attributes="0"/>
+                                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                                              <Component id="cadastrarNovoMaterialComprasButton" min="-2" pref="250" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                                              <Component id="jLabel9" min="-2" pref="270" max="-2" attributes="0"/>
+                                              <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                                              <Component id="quantidadeItemComprasTextField" min="-2" pref="80" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                                              <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                              <Component id="precoItemComprasTextField" min="-2" pref="80" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="350" pref="350" max="-2" attributes="0"/>
+                                              <Component id="precoTotalItemComprasTextField" min="-2" pref="110" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                                              <Component id="adicionarItemComprasButton" min="-2" pref="320" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="490" pref="490" max="-2" attributes="0"/>
+                                              <Component id="jLabel8" min="-2" pref="230" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jSeparator2" min="-2" pref="11" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                                      <Component id="jLabel10" min="-2" pref="270" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="totalAPagarLabel" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="confirmarComprasButton" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="cancelarComprasButton" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="jScrollPane1" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="jLabel17" alignment="0" min="-2" pref="320" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace pref="6" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="jLabel5" min="-2" pref="305" max="-2" attributes="0"/>
+                                          <Group type="103" groupAlignment="0" attributes="0">
+                                              <Component id="excluirCompra" alignment="1" min="-2" pref="140" max="-2" attributes="0"/>
+                                              <Component id="jScrollPane5" min="-2" pref="305" max="-2" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
                               </Group>
                           </Group>
                       </Group>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                   </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="490" pref="490" max="-2" attributes="0"/>
-                      <Component id="jLabel8" min="-2" pref="230" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                      <Component id="jLabel10" min="-2" pref="270" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="800" pref="800" max="-2" attributes="0"/>
-                      <Component id="jScrollPane1" min="-2" pref="320" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="791" pref="791" max="-2" attributes="0"/>
-                      <Component id="jLabel4" min="-2" pref="350" max="-2" attributes="0"/>
-                  </Group>
-                  <Component id="jSeparator1" alignment="0" min="-2" pref="1140" max="-2" attributes="0"/>
               </Group>
             </DimensionLayout>
             <DimensionLayout dim="1">
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="102" alignment="0" attributes="0">
-                      <Component id="jLabel3" min="-2" pref="40" max="-2" attributes="0"/>
-                      <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
-                      <Component id="jLabel6" min="-2" pref="30" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="associadosComprasComboBox" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
-                          <Component id="materialComprasComboBox" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="40" pref="40" max="-2" attributes="0"/>
+                              <Component id="jSeparator1" min="-2" pref="20" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel4" min="-2" pref="40" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                          </Group>
                       </Group>
-                      <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane5" min="-2" pref="114" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="excluirCompra" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="cadastrarAssociadoComprasButton" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Component id="cadastrarNovoMaterialComprasButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="totalAPagarLabel" alignment="0" min="-2" pref="40" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+                              <Component id="confirmarComprasButton" min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="80" max="-2" attributes="0"/>
+                              <Component id="cancelarComprasButton" min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
                       </Group>
-                      <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jLabel9" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
-                          <Component id="quantidadeItemComprasTextField" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel3" min="-2" pref="40" max="-2" attributes="0"/>
+                              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+                              <Component id="jLabel6" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="associadosComprasComboBox" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="materialComprasComboBox" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="cadastrarAssociadoComprasButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="cadastrarNovoMaterialComprasButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel9" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="quantidadeItemComprasTextField" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel7" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="precoItemComprasTextField" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+                              <Component id="precoTotalItemComprasTextField" min="-2" pref="30" max="-2" attributes="0"/>
+                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                              <Component id="adicionarItemComprasButton" min="-2" pref="70" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                              <Component id="jLabel8" min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="370" pref="370" max="-2" attributes="0"/>
+                              <Component id="jLabel10" min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
                       </Group>
-                      <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jLabel7" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
-                          <Component id="precoItemComprasTextField" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
-                      </Group>
-                      <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
-                      <Component id="precoTotalItemComprasTextField" min="-2" pref="30" max="-2" attributes="0"/>
-                      <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                      <Component id="adicionarItemComprasButton" min="-2" pref="70" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="110" max="32767" attributes="0"/>
                   </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="440" pref="440" max="-2" attributes="0"/>
-                      <Component id="totalAPagarLabel" min="-2" pref="40" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="480" pref="480" max="-2" attributes="0"/>
-                      <Component id="confirmarComprasButton" min="-2" pref="30" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="520" pref="520" max="-2" attributes="0"/>
-                      <Component id="cancelarComprasButton" min="-2" pref="30" max="-2" attributes="0"/>
-                  </Group>
-                  <Component id="jSeparator2" alignment="0" min="-2" pref="610" max="-2" attributes="0"/>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                      <Component id="jLabel8" min="-2" pref="30" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="370" pref="370" max="-2" attributes="0"/>
-                      <Component id="jLabel10" min="-2" pref="30" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="50" pref="50" max="-2" attributes="0"/>
-                      <Component id="jScrollPane1" min="-2" pref="390" max="-2" attributes="0"/>
-                  </Group>
-                  <Component id="jLabel4" alignment="0" min="-2" pref="40" max="-2" attributes="0"/>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="40" pref="40" max="-2" attributes="0"/>
-                      <Component id="jSeparator1" min="-2" pref="20" max="-2" attributes="0"/>
-                  </Group>
+                  <Component id="jSeparator2" alignment="0" max="32767" attributes="0"/>
               </Group>
             </DimensionLayout>
           </Layout>
@@ -764,6 +798,7 @@
               <SubComponents>
                 <Component class="javax.swing.JTextArea" name="infoComprasTextArea">
                   <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
                     <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="ff" green="ff" red="ff" type="rgb"/>
                     </Property>
@@ -775,7 +810,7 @@
                       <Color blue="66" green="66" red="66" type="rgb"/>
                     </Property>
                     <Property name="rows" type="int" value="5"/>
-                    <Property name="text" type="java.lang.String" value="AOSKDADMADPSASDPLASD&#xa;APSDKMADSM&#xa;laksdmmnkad&#xa;lkansdkadm&#xe7;lasmas&#xa;&#xa;ap&#xe7;skdmp&#xe7;kasdmp&#xe7;asdmk&#xe7;asd&#xa;asd&#xa;ad&#xa;sa&#xe7;dmkls&#xe7;kadmsa&#xe7;kdms&#xa;ad&#xa;adslakmnsdklmadskads&#xa;ads&#xa;adskasmndsklmads"/>
+                    <Property name="text" type="java.lang.String" value="item-----------&#xa;papa&#xa;papa&#xa;papa&#xa;papa&#xa;papa"/>
                   </Properties>
                 </Component>
               </SubComponents>
@@ -822,6 +857,9 @@
                 </Property>
                 <Property name="text" type="java.lang.String" value="Confirmar"/>
               </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="confirmarComprasButtonActionPerformed"/>
+              </Events>
             </Component>
             <Component class="javax.swing.JSeparator" name="jSeparator1">
             </Component>
@@ -926,9 +964,10 @@
                   <Font name="Dialog" size="24" style="1"/>
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="0"/>
-                <Property name="text" type="java.lang.String" value="00,00"/>
+                <Property name="text" type="java.lang.String" value="0.0"/>
               </Properties>
               <Events>
+                <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="precoItemComprasTextFieldFocusLost"/>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="precoItemComprasTextFieldActionPerformed"/>
               </Events>
             </Component>
@@ -949,9 +988,10 @@
                   <Font name="Dialog" size="24" style="1"/>
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="0"/>
-                <Property name="text" type="java.lang.String" value="00000"/>
+                <Property name="text" type="java.lang.String" value="0.0"/>
               </Properties>
               <Events>
+                <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="quantidadeItemComprasTextFieldFocusLost"/>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="quantidadeItemComprasTextFieldActionPerformed"/>
               </Events>
             </Component>
@@ -1009,7 +1049,7 @@
                   <Font name="Dialog" size="24" style="1"/>
                 </Property>
                 <Property name="horizontalAlignment" type="int" value="0"/>
-                <Property name="text" type="java.lang.String" value="0000,00"/>
+                <Property name="text" type="java.lang.String" value="0.0"/>
               </Properties>
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="precoTotalItemComprasTextFieldActionPerformed"/>
@@ -1032,6 +1072,70 @@
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cadastrarAssociadoComprasButtonActionPerformed"/>
               </Events>
             </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane5">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JList" name="carrinhojList">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="cc" green="cc" red="cc" type="rgb"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                      <StringArray count="0"/>
+                    </Property>
+                    <Property name="visibleRowCount" type="int" value="6"/>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel5">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Dialog" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="0" type="rgb"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="Carrinho"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="excluirCompra">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="21" green="24" red="9c" type="rgb"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="33" green="33" red="33" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Excluir"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="excluirCompraActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel17">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Dialog" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="0" type="rgb"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="Descri&#xe7;&#xe3;o"/>
+              </Properties>
+            </Component>
           </SubComponents>
         </Container>
         <Container class="javax.swing.JPanel" name="venderPanel">
@@ -1050,67 +1154,94 @@
             <DimensionLayout dim="0">
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="0" attributes="0">
-                      <Component id="jLabel15" min="-2" pref="790" max="-2" attributes="0"/>
-                      <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
-                      <Component id="jLabel16" min="-2" pref="350" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
                       <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="empresasComboBox" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
-                          <Component id="cadastrarNovaEmpresaAuxButtonAux" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
-                          <Component id="jLabel21" alignment="0" min="-2" pref="270" max="-2" attributes="0"/>
-                          <Component id="jLabel19" alignment="0" min="-2" max="-2" attributes="0"/>
-                          <Group type="102" alignment="0" attributes="0">
-                              <Component id="jLabel22" min="-2" pref="270" max="-2" attributes="0"/>
-                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
-                              <Component id="precoTotalItemVendaTextField" min="-2" pref="110" max="-2" attributes="0"/>
-                          </Group>
-                      </Group>
-                      <EmptySpace min="20" pref="20" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
-                              <Component id="materialVendaComboBox" min="-2" pref="230" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel21" alignment="0" min="-2" pref="270" max="-2" attributes="0"/>
+                                  <Component id="jLabel19" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="jLabel22" min="-2" pref="270" max="-2" attributes="0"/>
+                                      <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                      <Component id="precoTotalItemVendasTextField" min="-2" pref="110" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="340" max="-2" attributes="0"/>
+                              <Component id="jScrollPane4" min="-2" pref="320" max="-2" attributes="0"/>
                           </Group>
-                          <Component id="CadastrarNovoMaterialVendaButton" alignment="0" min="-2" pref="250" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="empresasVendasComboBox" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                          <Component id="cadastrarNovaEmpresaAuxButtonAux" alignment="0" min="-2" pref="340" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="20" pref="20" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                                              <Component id="materialVendasComboBox" min="-2" pref="230" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Component id="CadastrarNovoMaterialVendaButton" alignment="0" min="-2" pref="250" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="420" pref="420" max="-2" attributes="0"/>
+                                      <Component id="jLabel20" min="-2" pref="230" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                                      <Component id="jLabel18" min="-2" pref="340" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="720" max="-2" attributes="0"/>
+                                      <Component id="jSeparator6" min="-2" pref="15" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="jScrollPane6" max="32767" attributes="0"/>
+                                      <Component id="jLabel23" alignment="0" max="32767" attributes="0"/>
+                                      <Component id="jLabel24" alignment="0" pref="295" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Component id="excluirVendasjButton" min="-2" pref="109" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
                       </Group>
-                      <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                      <Component id="jScrollPane4" min="-2" pref="320" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
                   </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="380" pref="380" max="-2" attributes="0"/>
-                      <Component id="precoItemVendaTextField" min="-2" pref="80" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="490" pref="490" max="-2" attributes="0"/>
-                      <Component id="jLabel20" min="-2" pref="230" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="340" pref="340" max="-2" attributes="0"/>
-                      <Component id="quantidadeItemVendaTextField" min="-2" pref="80" max="-2" attributes="0"/>
-                  </Group>
-                  <Component id="jSeparator5" alignment="0" min="-2" pref="1140" max="-2" attributes="0"/>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                      <Component id="adicionarItemVendaButton" min="-2" pref="320" max="-2" attributes="0"/>
-                      <EmptySpace min="410" pref="410" max="-2" attributes="0"/>
+                  <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="confirmarVendaButton" alignment="0" min="-2" pref="320" max="-2" attributes="0"/>
-                          <Component id="cancelarVendaButton" alignment="0" min="-2" pref="320" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel15" min="-2" pref="790" max="-2" attributes="0"/>
+                              <EmptySpace min="1" pref="1" max="-2" attributes="0"/>
+                              <Component id="jLabel16" min="-2" pref="350" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="380" pref="380" max="-2" attributes="0"/>
+                              <Component id="precoItemVendasTextField" min="-2" pref="80" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="340" pref="340" max="-2" attributes="0"/>
+                              <Component id="quantidadeItemVendasTextField" min="-2" pref="80" max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="jSeparator5" alignment="0" min="-2" pref="1140" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
+                              <Component id="adicionarItemVendasButton" min="-2" pref="320" max="-2" attributes="0"/>
+                              <EmptySpace min="410" pref="410" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="confirmarVendaButton" alignment="0" min="-2" pref="320" max="-2" attributes="0"/>
+                                  <Component id="cancelarVendaButton" alignment="0" min="-2" pref="320" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="800" pref="800" max="-2" attributes="0"/>
+                              <Component id="infoVendaTotalAReceberLabel" min="-2" pref="320" max="-2" attributes="0"/>
+                          </Group>
                       </Group>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
-                      <Component id="jLabel18" min="-2" pref="340" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="800" pref="800" max="-2" attributes="0"/>
-                      <Component id="infoVendaTotalAReceberLabel" min="-2" pref="320" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="102" alignment="0" attributes="0">
-                      <EmptySpace min="790" pref="790" max="-2" attributes="0"/>
-                      <Component id="jSeparator6" min="-2" pref="70" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -1124,7 +1255,7 @@
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="60" pref="60" max="-2" attributes="0"/>
-                              <Component id="empresasComboBox" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="empresasVendasComboBox" min="-2" pref="30" max="-2" attributes="0"/>
                               <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
                               <Component id="cadastrarNovaEmpresaAuxButtonAux" min="-2" max="-2" attributes="0"/>
                               <EmptySpace min="70" pref="70" max="-2" attributes="0"/>
@@ -1134,22 +1265,18 @@
                               <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Component id="jLabel22" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
-                                  <Component id="precoTotalItemVendaTextField" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
+                                  <Component id="precoTotalItemVendasTextField" alignment="0" min="-2" pref="30" max="-2" attributes="0"/>
                               </Group>
                           </Group>
                           <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="60" pref="60" max="-2" attributes="0"/>
-                              <Component id="materialVendaComboBox" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="materialVendasComboBox" min="-2" pref="30" max="-2" attributes="0"/>
                               <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
                               <Component id="CadastrarNovoMaterialVendaButton" min="-2" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" alignment="0" attributes="0">
-                              <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
-                              <Component id="jScrollPane4" min="-2" pref="390" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="270" pref="270" max="-2" attributes="0"/>
-                              <Component id="precoItemVendaTextField" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="precoItemVendasTextField" min="-2" pref="30" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
@@ -1157,13 +1284,29 @@
                           </Group>
                           <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="210" pref="210" max="-2" attributes="0"/>
-                              <Component id="quantidadeItemVendaTextField" min="-2" pref="30" max="-2" attributes="0"/>
+                              <Component id="quantidadeItemVendasTextField" min="-2" pref="30" max="-2" attributes="0"/>
                           </Group>
-                          <Component id="jSeparator5" alignment="0" min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jSeparator5" min="-2" pref="20" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                                      <Component id="jLabel23" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jScrollPane6" min="-2" pref="103" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="excluirVendasjButton" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                              <Component id="jLabel24" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jScrollPane4" min="-2" pref="171" max="-2" attributes="0"/>
+                          </Group>
                       </Group>
-                      <EmptySpace min="30" pref="30" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="adicionarItemVendaButton" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="adicionarItemVendasButton" alignment="0" min="-2" pref="70" max="-2" attributes="0"/>
                           <Group type="102" alignment="0" attributes="0">
                               <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
                               <Component id="confirmarVendaButton" min="-2" pref="30" max="-2" attributes="0"/>
@@ -1206,6 +1349,7 @@
               <SubComponents>
                 <Component class="javax.swing.JTextArea" name="infoVendaTextArea">
                   <Properties>
+                    <Property name="editable" type="boolean" value="false"/>
                     <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                       <Color blue="ff" green="ff" red="ff" type="rgb"/>
                     </Property>
@@ -1217,7 +1361,7 @@
                       <Color blue="66" green="66" red="66" type="rgb"/>
                     </Property>
                     <Property name="rows" type="int" value="5"/>
-                    <Property name="text" type="java.lang.String" value="AOSKDADMADPSASDPLASD&#xa;APSDKMADSM&#xa;laksdmmnkad&#xa;lkansdkadm&#xe7;lasmas&#xa;&#xa;ap&#xe7;skdmp&#xe7;kasdmp&#xe7;asdmk&#xe7;asd&#xa;asd&#xa;ad&#xa;sa&#xe7;dmkls&#xe7;kadmsa&#xe7;kdms&#xa;ad&#xa;adslakmnsdklmadskads&#xa;ads&#xa;adskasmndsklmads"/>
+                    <Property name="text" type="java.lang.String" value="ITEM----&#xa;ASSOCIADO&#xa;MATERIAL&#xa;QUANT&#xa;PK&#xa;PT"/>
                   </Properties>
                 </Component>
               </SubComponents>
@@ -1288,7 +1432,7 @@
                 <Property name="text" type="java.lang.String" value="Empresa"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JComboBox" name="empresasComboBox">
+            <Component class="javax.swing.JComboBox" name="empresasVendasComboBox">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -1328,7 +1472,7 @@
                 <Property name="text" type="java.lang.String" value="Pre&#xe7;o Por Kilo (em Reais):"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JComboBox" name="materialVendaComboBox">
+            <Component class="javax.swing.JComboBox" name="materialVendasComboBox">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="ff" green="ff" red="ff" type="rgb"/>
@@ -1364,7 +1508,7 @@
                 <Property name="text" type="java.lang.String" value="Material"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JTextField" name="precoItemVendaTextField">
+            <Component class="javax.swing.JTextField" name="precoItemVendasTextField">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Dialog" size="24" style="1"/>
@@ -1373,7 +1517,8 @@
                 <Property name="text" type="java.lang.String" value="00,00"/>
               </Properties>
               <Events>
-                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="precoItemVendaTextFieldActionPerformed"/>
+                <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="precoItemVendasTextFieldFocusLost"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="precoItemVendasTextFieldActionPerformed"/>
               </Events>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel21">
@@ -1387,7 +1532,7 @@
                 <Property name="text" type="java.lang.String" value="Quantidade (em Kilos):"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JTextField" name="quantidadeItemVendaTextField">
+            <Component class="javax.swing.JTextField" name="quantidadeItemVendasTextField">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Dialog" size="24" style="1"/>
@@ -1396,7 +1541,8 @@
                 <Property name="text" type="java.lang.String" value="00000"/>
               </Properties>
               <Events>
-                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="quantidadeItemVendaTextFieldActionPerformed"/>
+                <EventHandler event="focusLost" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="quantidadeItemVendasTextFieldFocusLost"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="quantidadeItemVendasTextFieldActionPerformed"/>
               </Events>
             </Component>
             <Component class="javax.swing.JButton" name="CadastrarNovoMaterialVendaButton">
@@ -1416,7 +1562,7 @@
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="CadastrarNovoMaterialVendaButtonActionPerformed"/>
               </Events>
             </Component>
-            <Component class="javax.swing.JButton" name="adicionarItemVendaButton">
+            <Component class="javax.swing.JButton" name="adicionarItemVendasButton">
               <Properties>
                 <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="0" green="99" red="33" type="rgb"/>
@@ -1429,6 +1575,9 @@
                 </Property>
                 <Property name="text" type="java.lang.String" value="Adicionar Item"/>
               </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="adicionarItemVendasButtonActionPerformed"/>
+              </Events>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel22">
               <Properties>
@@ -1441,7 +1590,7 @@
                 <Property name="text" type="java.lang.String" value="Pre&#xe7;o Total (em Reais):"/>
               </Properties>
             </Component>
-            <Component class="javax.swing.JTextField" name="precoTotalItemVendaTextField">
+            <Component class="javax.swing.JTextField" name="precoTotalItemVendasTextField">
               <Properties>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Dialog" size="24" style="1"/>
@@ -1450,7 +1599,7 @@
                 <Property name="text" type="java.lang.String" value="0000,00"/>
               </Properties>
               <Events>
-                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="precoTotalItemVendaTextFieldActionPerformed"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="precoTotalItemVendasTextFieldActionPerformed"/>
               </Events>
             </Component>
             <Component class="javax.swing.JButton" name="cadastrarNovaEmpresaAuxButtonAux">
@@ -1468,6 +1617,81 @@
               </Properties>
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cadastrarNovaEmpresaAuxButtonAuxActionPerformed"/>
+              </Events>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane6">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JList" name="carrinhoVendajList">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="cc" green="cc" red="cc" type="rgb"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="model" type="javax.swing.ListModel" editor="org.netbeans.modules.form.editors2.ListModelEditor">
+                      <StringArray count="5">
+                        <StringItem index="0" value="Item 1"/>
+                        <StringItem index="1" value="Item 2"/>
+                        <StringItem index="2" value="Item 3"/>
+                        <StringItem index="3" value="Item 4"/>
+                        <StringItem index="4" value="Item 5"/>
+                      </StringArray>
+                    </Property>
+                  </Properties>
+                  <AuxValues>
+                    <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+                  </AuxValues>
+                </Component>
+              </SubComponents>
+            </Container>
+            <Component class="javax.swing.JLabel" name="jLabel23">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Dialog" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="0" type="rgb"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="Carrinho"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel24">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Dialog" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="0" green="0" red="0" type="rgb"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="text" type="java.lang.String" value="Descri&#xe7;&#xe3;o"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="excluirVendasjButton">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="21" green="24" red="9c" type="rgb"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="33" green="33" red="33" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="Excluir"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="excluirVendasjButtonActionPerformed"/>
               </Events>
             </Component>
           </SubComponents>
