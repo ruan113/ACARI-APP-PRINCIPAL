@@ -1095,7 +1095,7 @@ public class principalViewVelha extends javax.swing.JFrame {
     }//GEN-LAST:event_quantidadeItemVendaTextFieldActionPerformed
 
     private void CadastrarNovoMaterialVendaButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CadastrarNovoMaterialVendaButtonActionPerformed
-        new fichaMaterialForm().setVisible(true);
+        //new fichaMaterialForm().setVisible(true);
     }//GEN-LAST:event_CadastrarNovoMaterialVendaButtonActionPerformed
 
     private void precoTotalItemVendaTextFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_precoTotalItemVendaTextFieldActionPerformed
